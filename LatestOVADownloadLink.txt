@@ -1,1 +1,1 @@
-{"ovaDownloadLink": "https://storage.googleapis.com/magicflex/GA/Appliance/MagicFlex-Appliance-v4.20-Build-1.16.0-059.ova"}
+{"ovaDownloadLink": "https://storage.googleapis.com/magicflex/GA/Appliance/MagicFlex-Appliance-v4.20-Build-1.16.0-061.ova"}
